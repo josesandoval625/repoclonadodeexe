@@ -12,3 +12,4 @@ namespace foobar
     };
         
 }
+float suma(float, float);

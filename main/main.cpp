@@ -1,6 +1,6 @@
 #include <cstdlib>
 #include <iostream>
-#include"funcionesMatematicas.h"
+
 #include "example.h"
 using namespace std;
 int main(int argc, char** argv)
