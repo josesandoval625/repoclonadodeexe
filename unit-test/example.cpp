@@ -47,15 +47,6 @@ namespace foobar::tests
 		foobar::Example probarPitagoras{};
 		ASSERT_EQ(probarPitagoras.suma(3, 5), 7);
 	}
-}/*
-namespace foobar::testuno
-{
-	TEST(ExampleTests, Example)
-	{
-		foobar::Example mas{};
-		ASSERT_THAT(mas.suma(3, 5), 8);
-	}
-
-}*/
+}
 
 
